@@ -9,7 +9,7 @@
 
 ## About MultiAuth
 
-Laravel Multi Autentication System based in PHP 8.2.4, Laravel 10.24.0, MySql 10.4.28-MariaDB (Charset do servidor: UTF-8 Unicode (utf8mb4))
+Laravel Multi Autentication System based in PHP 8.2.4, Laravel 10.24.0, MySql 10.4.28-MariaDB (Charset do servidor: UTF-8 Unicode (utf8mb4)) e AdminLTE v3.2.0.
 
 ## License
 
